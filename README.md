@@ -1,8 +1,8 @@
-# Where is Waido
+# Where is Waldo
 
 <img src='https://i.ytimg.com/vi/KjHnseCxQIM/maxresdefault.jpg'>
 
-## 保母級執行
+## 保母級執行教學
 ### First: 點 main branch 和檔案(ipynb)
 <img src='ExecutiveIntroductionImg/截圖 2025-03-15 下午7.25.57.png'>
 
